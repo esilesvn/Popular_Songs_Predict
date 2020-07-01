@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/> <img src="https://github.com/esilesvn/Popular_Songs_Predict/blob/master/images/Billboard_Hot_100_logo.jpg" alt="Billboard Hot 100 Logo" width="200"/>
 
 # Popular Songs Prediction
 Elise
