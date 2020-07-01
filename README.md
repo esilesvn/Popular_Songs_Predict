@@ -11,7 +11,7 @@ Elise
 - [Links](#links)
 
 ## Project Description
-This program aims to explore some classification models to get predictions. We add to find a dataset with some variable to predict, then do the proper cleaning, some exploration as well and test some models !
+This program aims to explore some classification models to get predictions. We had to find a dataset with some variable to predict, then do the proper cleaning, some exploration as well and test some models !
 After some researches to find my dataset, I decided by interest and with curiosity to go for "Popular Songs Predictions". Is there some sort of recipe to get the next Hit ? 
 Can we predict, with several informations on a song, if it will be a Hit or not ? Could it made it to Top 10 or not ? We will try to get some insights ! 
 
